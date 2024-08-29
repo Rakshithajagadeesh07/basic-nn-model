@@ -10,7 +10,7 @@ To build a neural network regression model for predicting a continuous target va
 
 ## Neural Network Model
 
-![nn exp1](https://github.com/user-attachments/assets/654fbf8d-807e-4a18-abf7-2af3bd055ebf)
+![nn ex 1](https://github.com/user-attachments/assets/5ac98df1-0b2b-40a4-84b9-a1abba63a49c)
 
 ## DESIGN STEPS
 
